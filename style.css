@@ -173,7 +173,7 @@ nav.sticky .media-icons a{
 /* home section styling */
 .home{
     display: flex;
-    background: url("backgroung.png") no-repeat center;
+    background: url("https://github.com/shrishti11/Portfolio/blob/main/background.png?raw=true") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
